@@ -1,0 +1,3 @@
+//id:870223908471709747
+//pass:ODcwMjIzOTA4NDcxNzA5NzQ3.YQJpKw.zcetMKpOaWpUeKmWKwaGBZff7gc
+//link:https://discord.com/api/oauth2/authorize?client_id=870223908471709747&scope=bot&permissions=1

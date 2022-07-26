@@ -1,0 +1,19 @@
+{
+  "name": "botiful",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akshit Mehrotra",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.6.0",
+    "async": "^3.2.0",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0",
+    "node-datetime": "^2.1.2"
+  }
+}
