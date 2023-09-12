@@ -263,32 +263,7 @@ client.on("message",message => {
     {
         message.reply("Hello to you too!");
     }
-    //secret
-    if(message_LC == "=mansha")
-    {
-        message.reply("Mansha is great!");
-    }
-
-    if(message_LC == "=kanishk")
-    {
-        message.reply("Do you mean Kinchu!");
-    }
-
-    if(message_LC == "=ansh")
-    {
-        message.reply("Valo mei Operator mat le, chu!");
-    }
-
-    if(message_LC == "=prabhmilan")
-    {
-        message.reply("Om sweets ka paneer lababdaar");
-    }
-
-    if(message_LC == "=karan")
-    {
-        message.reply("Canadian Deshdrohi!");
-    }
-
+    
     //help
     if(message_LC == "=help")
     {
